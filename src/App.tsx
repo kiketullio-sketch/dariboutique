@@ -1510,7 +1510,7 @@ export default function App() {
                   lineHeight: 1.2,
                 }}
               >
-                Venha conhecer a loja!
+                Vamos marcar sua hora?
               </h2>
               <p
                 style={{
